@@ -67,6 +67,10 @@ h1 {
     z-index: 1;
 }
 
+#features p {
+    text-align: center;
+}
+
 .features-box {
     padding: 5%;
 }
