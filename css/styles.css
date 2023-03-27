@@ -248,4 +248,7 @@ p {
         width: 60%;
         margin: 10px 0;
     }
+    p {
+        text-align: center;
+    }
 }
